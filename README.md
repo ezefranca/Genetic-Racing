@@ -28,14 +28,8 @@ O tabuleiro foi organizado como uma matriz, onde cada tipo de peça foi represen
 Exemplo: A peça marcada com **X** neste caso seria a primeira escolha
 
 
-                [ 0 1 0 1 0 1 0 1 ]
-                [ X 0 1 0 1 0 1 0 ]     
-    Tabuleiro = [ 0 2 0 0 0 0 0 0 ]    
-                [ 0 0 0 0 0 0 0 0 ]
-                [ 0 0 0 0 0 0 0 0 ]
-                [ 0 0 0 0 0 0 0 0 ]
-                [ 0 0 0 2 0 2 0 2 ]
-                [ 2 0 2 0 2 0 2 0 ]
+    Best = [0,0,0,-1,0,-1,-1,1,-1,1,1,1,-1,-1,0,-1,-1,-1,-1,1,1,-1,0,-1,-1,-1,-1,-1,1,1,0,0,0,-1,-1,0,0,-1,-1,-1,0,1,0,1,0]    
+                
 
 2 Escolha randomica, dependendo da possíbilidade de movimento.
  
