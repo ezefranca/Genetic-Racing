@@ -3,7 +3,7 @@
 ### Trabalho III realizado para o Mestrado em Desenvolvimento de Jogos Digitais (PUC-SP)
 #### Laboratório 2 (Prof. Dr. Reinaldo Ramos)
 
-![](https://raw.githubusercontent.com/ezefranca/Damas/master/print.png?token=AA32WUH44VEAP5LEVW4EW3C6QKGZS)
+![](https://raw.githubusercontent.com/ezefranca/Genetic-Racing/master/Algoritmo_Gen%C3%A9tico.gif)
 
 ## Proposta
 
@@ -28,7 +28,7 @@ O tabuleiro foi organizado como uma matriz, onde cada tipo de peça foi represen
 Exemplo: A peça marcada com **X** neste caso seria a primeira escolha
 
 
-    Best = [0,0,0,-1,0,-1,-1,1,-1,1,1,1,-1,-1,0,-1,-1,-1,-1,1,1,-1,0,-1,-1,-1,-1,-1,1,1,0,0,0,-1,-1,0,0,-1,-1,-1,0,1,0,1,0]    
+    Best = [0,0,0,0,-1,-1,0,-1,1,1,1,1,-1,-1,0,-1,-1,-1,-1,1,0,-1,0,0,-1,0,0,1,-1,-1,1,1,0,-1,-1,0,0,0,-1,-1,0,1,0,-1,-1]    
                 
 
 2 Escolha randomica, dependendo da possíbilidade de movimento.
@@ -37,4 +37,4 @@ Exemplo: A peça marcada com **X** neste caso seria a primeira escolha
  
  Vídeo no Youtube:
  
- [![Foo](https://raw.githubusercontent.com/ezefranca/Damas/master/thumb.png?token=AA32WUDAPAI3HARMVCZXULS6QKJY)](https://www.youtube.com/watch?v=IHKuQMgCsxs&feature=youtu.be)
+ [![Foo](https://raw.githubusercontent.com/ezefranca/Damas/master/thumb.png?token=AA32WUDAPAI3HARMVCZXULS6QKJY)](https://www.youtube.com/watch?v=h2fyCZy1WZU&feature=youtu.be)
