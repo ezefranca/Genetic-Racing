@@ -11,30 +11,14 @@ Encontrar o melhor array de solução para input em um personagem para que o mes
 
 ## Solução
 
-O tabuleiro foi organizado como uma matriz, onde cada tipo de peça foi representado por um numero (1 e 2) e os espaços por 0.
+Primeiramente automatizando a transição de gerações, de duas formas: Quando todos os carros estão parados OU quando se passou 35 segundos.
 
-                [ 0 1 0 1 0 1 0 1 ]
-                [ 1 0 1 0 1 0 1 0 ]     
-    Tabuleiro = [ 0 0 0 0 0 0 0 0 ]    
-                [ 0 0 0 0 0 0 0 0 ]
-                [ 0 0 0 0 0 0 0 0 ]
-                [ 0 0 0 0 0 0 0 0 ]
-                [ 0 2 0 2 0 2 0 2 ]
-                [ 2 0 2 0 2 0 2 0 ]
-
-### Ordem de decisão
-
-1 Verificamos os vizinhos adjacentes na matriz, para indentificar uma possível morte do oponente. 
-Exemplo: A peça marcada com **X** neste caso seria a primeira escolha
-
-
-    Best = [0,0,0,0,-1,-1,0,-1,1,1,1,1,-1,-1,0,-1,-1,-1,-1,1,0,-1,0,0,-1,0,0,1,-1,-1,1,1,0,-1,-1,0,0,0,-1,-1,0,1,0,-1,-1]    
+  BestCase = [0,0,0,0,-1,-1,0,-1,1,1,1,1,-1,-1,0,-1,-1,-1,-1,1,0,-1,0,0,-1,0,0,1,-1,-1,1,1,0,-1,-1,0,0,0,-1,-1,0,1,0,-1,-1]    
                 
-
-2 Escolha randomica, dependendo da possíbilidade de movimento.
- 
  ## Resultados
  
  Vídeo no Youtube:
  
- [![Foo](https://raw.githubusercontent.com/ezefranca/Damas/master/thumb.png?token=AA32WUDAPAI3HARMVCZXULS6QKJY)](https://www.youtube.com/watch?v=h2fyCZy1WZU&feature=youtu.be)
+ [![Foo](https://raw.githubusercontent.com/ezefranca/Genetic-Racing/master/Algoritmo_Gen%C3%A9tico.gif)](https://www.youtube.com/watch?v=h2fyCZy1WZU&feature=youtu.be)
+
+[![Youtube](https://raw.githubusercontent.com/ezefranca/ezefranca.github.io/master/img/youtube.png)](https://www.youtube.com/watch?v=h2fyCZy1WZU&feature=youtu.be)
