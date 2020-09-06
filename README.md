@@ -1,7 +1,8 @@
+## Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
+![](https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png)
 # Algoritmo Genético 
-
-### Trabalho III realizado para o Mestrado em Desenvolvimento de Jogos Digitais (PUC-SP)
-#### Laboratório 2 (Prof. Dr. Reinaldo Ramos)
+### Disciplina: Laboratório 2 
+### Professor Reinaldo Ramos
 
 ![](https://raw.githubusercontent.com/ezefranca/Genetic-Racing/master/Algoritmo_Gen%C3%A9tico.gif)
 
