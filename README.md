@@ -1,8 +1,12 @@
 ## Mestrado profissional em Desenvolvimento de Jogos Digitais (PUC-SP)
-![](https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png)
+
+<p align="center">
+<img class="mestrado" src="https://raw.githubusercontent.com/ezefranca/Damas/master/logo_mestrado.png" width="30%" height="30%">
+</p>
+
 # Algoritmo Genético 
 ### Disciplina: Laboratório 2 
-### Professor Reinaldo Ramos
+### Professor Dr. Reinaldo Augusto de Oliveira Ramos
 
 ![](https://raw.githubusercontent.com/ezefranca/Genetic-Racing/master/Algoritmo_Gen%C3%A9tico.gif)
 
